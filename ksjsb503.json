@@ -1,0 +1,1348 @@
+[{
+  "llsid": 2005069001696322753,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 11101001,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [
+            {
+              "type": 1,
+              "url": [
+                "https://msg.qy.net/evt?source_id\u003dhuo_dong\u0026ctype\u003d5\u0026iscallback\u003d1\u0026productid\u003d15\u0026atype\u003d1\u0026os\u003d0\u0026p1\u003d8_88_280\u0026t\u003d11\u0026ct\u003dchlads\u0026media\u003dksc\u0026advertiserid\u003d10852009\u0026adcrid\u003d22219038879\u0026planid\u003d765254996\u0026planname\u003d%E6%9E%81%E9%80%9F%E7%89%88%2D%E7%AB%99%E5%86%85%2D%E4%BC%98%E9%80%89%2D%E9%80%9A%E6%8A%95%2D%E7%A6%8F%E5%88%A9%2D%E7%A8%8B%E5%BA%8F%E5%8C%96%2D%E6%9C%89%E6%A2%97%2D0406%2D%E8%B7%91%E9%87%8F\u0026oaid\u003d__OAID__\u0026oaidmd5\u003d__OAID2__\u0026mac_address\u003d__MAC2__\u0026idfamd5\u003d__IDFA2__\u0026androididmd5\u003d__ANDROIDID2__\u0026imei\u003d__IMEI2__\u0026stime\u003d__TS__\u0026model\u003d__MODEL__\u0026callback\u003dhttp%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DKyCkWcFn3Fnkm892udDIUua2wQzOVia5_0u3_zOO7lMWJ8L3Gj7cWnYRmvzsEDUkeXcM91H76xNTnCiPJfKqU2s73YiCy8dTUuPSSjoXjP05-ftzR9C7zhVVFsAujkeAxFyLsIfCx6k-xfWNJCe5p0uofKCY3SE5n4h5uJ5mEVAapoVqSSlMk8fvFN96yYK9\u0026adposition\u003d1"
+              ]
+            }
+          ],
+          "adConversionInfo": {
+            "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/?callback\u003dKyCkWcFn3Fnkm892udDIUua2wQzOVia5_0u3_zOO7lMWJ8L3Gj7cWnYRmvzsEDUkeXcM91H76xNTnCiPJfKqU2s73YiCy8dTUuPSSjoXjP05-ftzR9C7zhVVFsAujkeAxFyLsIfCx6k-xfWNJCe5p0uofKCY3SE5n4h5uJ5mEVAapoVqSSlMk8fvFN96yYK9",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "http://mbdapp.iqiyi.com/j/iqiyi_lite/iqiyi_25515.apk",
+            "marketUrl": "market://details?id\u003dcom.qiyi.video.lite",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 22219038879,
+            "accountId": 10852009,
+            "adSourceType": 1,
+            "adDescription": "电影电视剧尽情看，想看什么搜一下，就在爱奇艺极速版！",
+            "adSourceDescription": "广告",
+            "adOperationType": 1,
+            "adShowDuration": 43,
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/597e346b695d499681f0d5ae82d20cbc.png",
+            "appName": "爱奇艺极速版.apk",
+            "appPackageName": "com.qiyi.video.lite",
+            "appScore": 0,
+            "adActionDescription": "立即下载",
+            "adMarkContent": "广告",
+            "campaignId": 765254996,
+            "unitId": 1390294786,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "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",
+            "campaignName": "极速版-站内-优选-通投-福利-程序化-有梗-0406-跑量",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "爱奇艺极速版",
+            "enableCloseAd": true,
+            "adActionBarColor": "8fc100",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://alimov2.a.kwimgs.com/upic/2022/03/29/10/BMjAyMjAzMjkxMDMwMzNfMjU3MTE0MzA2Nl83MDcxNjcwNzc0Nl8wXzM\u003d_b_Bb1b490c3a3b33bdca5ac3d8811f00ec7.mp4?tag\u003d1-1651507517-unknown-0-mpezi6umln-bb517e1df5f0a017\u0026clientCacheKey\u003d3x78jpjzqmsecju_b.mp4\u0026tt\u003db\u0026di\u003dded9d627\u0026bp\u003d13291",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/smart_0c399de285ab4633939bcc3c44c3ce7d.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5208413040428833120,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2571143066,
+            "userName": "一起看剧赚钱吧",
+            "accountId": 10852009,
+            "userGender": "F",
+            "portraitUrl": "https://p2.a.yximgs.com/uhead/AB/2021/09/28/15/BMjAyMTA5MjgxNTM2NTFfMjU3MTE0MzA2Nl8zX2hkNjIyXzgxMA\u003d\u003d_s.jpg"
+          },
+          "reservationId": "",
+          "liveStartTime": 0
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "streamManifest": {
+        "version": "1.0.0",
+        "businessType": 2,
+        "mediaType": 2,
+        "videoId": "3a3e3653e9fc0d9b",
+        "hideAuto": false,
+        "manualDefaultSelect": false,
+        "stereoType": 0,
+        "adaptationSet": [
+          {
+            "id": 1,
+            "duration": 42240,
+            "representation": [
+              {
+                "id": 1,
+                "url": "http://alicmmov.a.etoote.com/ksc1/Vq-BF08oC2Gv55bepbg68na8X4Wm4REvBB7-_Aj9dwoyPsWUcylGGlUd6C_HfBVaCxyEwiSVKN3Tk8c9x40C0ClbTfbIKIUBCTqgUJC-E_CEj8cVt2VN0e1r8KaorWwsccWNDtjZ17KZy2y6K5jmNC2uQ3xZ0MUmlnT54Mc4MK6gkkDyuKjNhfndD1P0D73X.mp4?tag\u003d1-1651508612-unknown-0-3fuqntw067-3bc1e0567225ae53\u0026type\u003dhot\u0026clientCacheKey\u003d3x78jpjzqmsecju_swft.mp4\u0026di\u003ddf68d2a5\u0026bp\u003d10001\u0026tt\u003dswft\u0026ss\u003dvp",
+                "backupUrl": [
+                  "http://txcmmov.a.etoote.com/ksc1/Vq-BF08oC2Gv55bepbg68na8X4Wm4REvBB7-_Aj9dwoyPsWUcylGGlUd6C_HfBVaCxyEwiSVKN3Tk8c9x40C0ClbTfbIKIUBCTqgUJC-E_CEj8cVt2VN0e1r8KaorWwsccWNDtjZ17KZy2y6K5jmNC2uQ3xZ0MUmlnT54Mc4MK6gkkDyuKjNhfndD1P0D73X.mp4?tag\u003d1-1651508612-unknown-1-deengz21bc-e6b53cf6067ddcb4\u0026type\u003dhot\u0026clientCacheKey\u003d3x78jpjzqmsecju_swft.mp4\u0026di\u003ddf68d2a5\u0026bp\u003d10001\u0026tt\u003dswft\u0026ss\u003dvp"
+                ],
+                "maxBitrate": 2300,
+                "avgBitrate": 795,
+                "width": 720,
+                "height": 1280,
+                "frameRate": 25.0,
+                "quality": 1.6,
+                "kvqScore": {
+                  "FR": 3.5099599005109674,
+                  "NR": 3.661508321762085
+                },
+                "qualityType": "720p",
+                "qualityLabel": "高清",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "3a3e3653e9fc0d9b/swft",
+                "hdrType": 0,
+                "fileSize": 4198139,
+                "bitratePattern": [
+                  1418,
+                  775,
+                  1418,
+                  43,
+                  234
+                ]
+              }
+            ]
+          }
+        ],
+        "playInfo": {},
+        "videoFeature": {
+          "blurProbability": 0.061988465487957,
+          "blockyProbability": 0.14401428401470184,
+          "avgEntropy": 14.62528828212193,
+          "mosScore": 0.739815890789032
+        }
+      },
+      "comments": [],
+      "photoTextLocationInfo": {
+        "leftRatio": 0.0125,
+        "topRatio": 0.0046875,
+        "widthRatio": 0.95,
+        "heightRatio": 0.9890625
+      },
+      "following": 0,
+      "verified": false,
+      "headurls": [
+        {
+          "cdn": "txcm.a.etoote.com",
+          "url": "http://txcm.a.etoote.com/uhead/AB/2021/09/28/15/BMjAyMTA5MjgxNTM2NTFfMjU3MTE0MzA2Nl8zX2hkNjIyXzgxMA\u003d\u003d_s.jpg",
+          "freeTrafficCdn": true
+        },
+        {
+          "cdn": "alicm.a.etoote.com",
+          "url": "http://alicm.a.etoote.com/uhead/AB/2021/09/28/15/BMjAyMTA5MjgxNTM2NTFfMjU3MTE0MzA2Nl8zX2hkNjIyXzgxMA\u003d\u003d_s.jpg",
+          "freeTrafficCdn": true
+        }
+      ],
+      "user_sex": "F",
+      "user_name": "一起看剧赚钱吧",
+      "us_c": 0,
+      "slideCommentEntryDisabled": false,
+      "comment_count": 0,
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "shareGuide": {
+        "playTimes": 1,
+        "photoShareGuide": false,
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4
+      },
+      "us_d": 1,
+      "forward_stats_params": {
+        "fid": "2351836359",
+        "et": "1_u/2005069001696322753_hd0"
+      },
+      "share_info": "userId\u003d3xk9cwdff34jq69\u0026photoId\u003d3x78jpjzqmsecju",
+      "expectFreeTraffic": true,
+      "hated": 0,
+      "liked": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "ad": {
+        "creativeId": 22219038879,
+        "chargeInfo": "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",
+        "sourceType": 1,
+        "conversionType": 1,
+        "displayType": 2,
+        "title": "立即下载",
+        "url": "http://mbdapp.iqiyi.com/j/iqiyi_lite/iqiyi_25515.apk",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "tracks": [
+          {
+            "type": 1,
+            "url": "https://msg.qy.net/evt?source_id\u003dhuo_dong\u0026ctype\u003d5\u0026iscallback\u003d1\u0026productid\u003d15\u0026atype\u003d1\u0026os\u003d0\u0026p1\u003d8_88_280\u0026t\u003d11\u0026ct\u003dchlads\u0026media\u003dksc\u0026advertiserid\u003d10852009\u0026adcrid\u003d22219038879\u0026planid\u003d765254996\u0026planname\u003d%E6%9E%81%E9%80%9F%E7%89%88%2D%E7%AB%99%E5%86%85%2D%E4%BC%98%E9%80%89%2D%E9%80%9A%E6%8A%95%2D%E7%A6%8F%E5%88%A9%2D%E7%A8%8B%E5%BA%8F%E5%8C%96%2D%E6%9C%89%E6%A2%97%2D0406%2D%E8%B7%91%E9%87%8F\u0026oaid\u003d__OAID__\u0026oaidmd5\u003d__OAID2__\u0026mac_address\u003d__MAC2__\u0026idfamd5\u003d__IDFA2__\u0026androididmd5\u003d__ANDROIDID2__\u0026imei\u003d__IMEI2__\u0026stime\u003d__TS__\u0026model\u003d__MODEL__\u0026callback\u003dhttp%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DKyCkWcFn3Fnkm892udDIUua2wQzOVia5_0u3_zOO7lMWJ8L3Gj7cWnYRmvzsEDUkeXcM91H76xNTnCiPJfKqU4Im9oPYyZKcCuAAq0EVaUGv8gOKMBarHuR2Pz6xcHGKWHdiDS6gHh3zzCRf23E--TpTQz6gNJpbZ3WkACkYc4ZjjFIHV1EBKYTEMbbWMxo5\u0026adposition\u003d1",
+            "urlOperationType": 1
+          }
+        ],
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/smart_0c399de285ab4633939bcc3c44c3ce7d.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/smart_0c399de285ab4633939bcc3c44c3ce7d.kpg"
+            }
+          ],
+          "width": 360,
+          "height": 640
+        },
+        "packageName": "com.qiyi.video.lite",
+        "appName": "爱奇艺极速版.apk",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1.0,
+        "extData": "{\"templateInfos\":[\"8_1_103_0\",\"6_1_120_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "appIconUrl": "https://static.yximgs.com/udata/pkg/597e346b695d499681f0d5ae82d20cbc.png",
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0.0,
+        "actionBarColor": "8fc100",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 4343892278,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 11101001,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "8fc100",
+            "actionBarLoadTime": 5000,
+            "actionBarStyle": 1,
+            "displayInfo": "立即下载",
+            "downloadedActionBarLoadTime": 3000,
+            "realShowDelayTime": 7000,
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "antiVendorVari": 0,
+          "apkMd5Info": {
+            "apkMd5s": [
+              "00743d9c07fd0da026b5c27cd895c574",
+              "38558e18ac289fb96c0386ed8aa85030",
+              "7260595exceptionMd5",
+              "4bb93bfa2db583f0c06c35d326520dcb",
+              "2d827b7657cb133586913d17cd089457"
+            ],
+            "unexpectedMd5Strategy": 0
+          },
+          "captionAdvertisementInfo": {
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/597e346b695d499681f0d5ae82d20cbc.png",
+            "productName": "爱奇艺极速版"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "8fc100",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "commentActionBarTitle": "立即下载",
+            "displayInfo": "立即下载",
+            "templateId": "adtk-comment-actionbar"
+          },
+          "convertInfo": {
+            "convertId": 0,
+            "convertType": 0
+          },
+          "deepRewardedInfo": {
+            "deepRewardedType": "CONVERSION_TYPE"
+          },
+          "deviceInfo": [
+            "xiaomi(redmi k30 pro zoom edition),redmi k30 pro变焦版（8gb/256gb/全网通/5g版）,"
+          ],
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "h5ControlInfo": {
+            "hideH5ReportEntrance": true,
+            "isDownloadLandingPageMould": true
+          },
+          "h5Data": "{\"coverUrlFrontend\":\"http://static.yximgs.com/udata/pkg/smart_0c399de285ab4633939bcc3c44c3ce7d.jpg\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null},\"privacyInfo\":{\"appInfo\":{\"appName\":\"爱奇艺极速版\",\"appVersion\":\"1.9.5\",\"packageSize\":32661401,\"updateTime\":1645524257784,\"developer\":\"北京爱奇艺科技有限公司\",\"appDetailImg\":\"\"},\"appPermissions\":[{\"permissionName\":\"android.permission.CAMERA\",\"permissionDetail\":\"允许程序访问摄像头进行拍照\"},{\"permissionName\":\"android.permission.RECORD_AUDIO\",\"permissionDetail\":\"允许程序录制声音通过手机或耳机的麦克\"},{\"permissionName\":\"android.permission.READ_CALENDAR\",\"permissionDetail\":\"允许程序读取用户的日程信息\"},{\"permissionName\":\"android.permission.WRITE_CALENDAR\",\"permissionDetail\":\"允许程序写入日程，但不可读取\"},{\"permissionName\":\"android.permission.READ_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序可以读取设备外部存储空间\"},{\"permissionName\":\"android.permission.WRITE_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序写入外部存储，如SD卡上写文件\"},{\"permissionName\":\"android.permission.ACCESS_FINE_LOCATION\",\"permissionDetail\":\"允许程序通过GPS芯片接收卫星的定位信息\"},{\"permissionName\":\"android.permission.READ_PHONE_STATE\",\"permissionDetail\":\"允许程序访问电话状态\"},{\"permissionName\":\"android.permission.WRITE_SETTINGS\",\"permissionDetail\":\"允许程序更改系统设置\"},{\"permissionName\":\"android.permission.ACCESS_COARSE_LOCATION\",\"permissionDetail\":\"允许程序通过WiFi或移动基站的方式获取用户粗略位置信息\"}],\"privacyPolicyUrl\":\"https://www.iqiyi.com/common/privateh5.html\"}}",
+          "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "rewardEndInfo": {
+              "actionTitle": "再看一个",
+              "enableShowAgainView": true,
+              "extParams": null,
+              "hightLightTitle": "500",
+              "iconUrl": "https://static.yximgs.com/udata/pkg/ad-res/ad_award_coin_dialog_bg.b44569c6.png",
+              "rewardValue": 500,
+              "subTitle": "继续观看视频最高得500金币",
+              "title": "恭喜你已获得奖励"
+            },
+            "supportLiveReservation": false
+          },
+          "inspirePersonalize": {
+            "awardPersonalized": true,
+            "awardValue": "87"
+          },
+          "iosAppId": "",
+          "iosPageId": "",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "marketUri": "market://details?id\u003dcom.qiyi.video.lite",
+          "mixBarInfo": {
+            "templateId": "adtk-feed-mixbar"
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 爱奇艺极速版",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 影音娱乐资讯及软件广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_dislike_v3.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_dislike_v4.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d70716707746",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_report_v3.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d70716707746",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_report_v4.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_reason_v2.png"
+              },
+              {
+                "id": 18,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_reason_v3.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 18
+              }
+            ],
+            "negativeStyle": 3
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "8fc100",
+            "actionBarDesc": "电影电视剧尽情看，想看什么搜一下，就在爱奇艺极速版！",
+            "actionBarTagColor": "78a200",
+            "actionBarText": "立即下载",
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/597e346b695d499681f0d5ae82d20cbc.png",
+            "appName": "爱奇艺极速版",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/597e346b695d499681f0d5ae82d20cbc.png",
+            "productName": "爱奇艺极速版",
+            "secondIndustryName": "影音娱乐资讯及软件",
+            "showPlayEndInfo": true
+          },
+          "playEndInfo": {
+            "actionBarColor": "8fc100",
+            "playEndStyle": 1,
+            "showEndOption": false,
+            "tagColor": "698d00"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "54",
+          "privacyOption": {
+            "showPhotoRiskTip": true,
+            "showH5RiskTip": true,
+            "displayPosition": 2,
+            "riskTipText": "您访问的网站由第三方提供",
+            "appInfo": {
+              "appName": "爱奇艺极速版",
+              "appVersion": "1.9.5",
+              "packageSize": 32661401,
+              "updateTime": 1645524257784,
+              "developer": "北京爱奇艺科技有限公司",
+              "appDetailImg": ""
+            },
+            "style": 0,
+            "photoRiskTipUrl": "https://activity.e.kuaishou.com/privacyProtect/",
+            "appDisplayText": "应用名：爱奇艺极速版；版本号：1.9.5；应用大小：31.0M；开发者：北京爱奇艺科技有限公司",
+            "links": [
+              {
+                "linkText": "应用权限",
+                "linkUrl": "https://activity.e.kuaishou.com/privacyProtect-v2/"
+              },
+              {
+                "linkText": "隐私政策",
+                "linkUrl": "https://www.iqiyi.com/common/privateh5.html"
+              }
+            ]
+          },
+          "templateDatas": [
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"电影电视剧尽情看，想看什么搜一下，就在爱奇艺极速版！\",\"iconUrl\":\"https://static.yximgs.com/udata/pkg/597e346b695d499681f0d5ae82d20cbc.png\",\"title\":\"爱奇艺极速版\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"455AE6\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-comment-actionbar",
+              "templateShowTime": 0
+            },
+            {
+              "data": "{\"realShowDelayTime\":6000,\"subTitle\":\"电影电视剧尽情看，想看什么搜一下，就在爱奇艺极速版！\",\"bannerTitle\":\"近一周17.2万人已下载\",\"actionbarExpandTime\":9000,\"displayInfo\":{\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"455AE6\"},\"iconUrl\":\"https://static.yximgs.com/udata/pkg/597e346b695d499681f0d5ae82d20cbc.png\",\"title\":\"爱奇艺极速版\",\"cardStyle\":2,\"actionBarLoadTime\":4000,\"showWeakStyle\":true,\"weakStyleInfo\":{\"animationStyle\":2,\"weakStyleDelayTime\":0,\"title\":\"近一周17.2万人已下载\"}}",
+              "displayLocation": 0,
+              "mixBarType": 1,
+              "resourceType": 1,
+              "styleType": 6,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-feed-mixbar",
+              "templateShowTime": 0
+            }
+          ],
+          "useAppMarket": true,
+          "webviewType": 0
+        },
+        "adDescription": "电影电视剧尽情看，想看什么搜一下，就在爱奇艺极速版！",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "adtk-comment-actionbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-comment-actionbar.103.js",
+              "templateVersion": "1.0.3",
+              "templateVersionCode": 103,
+              "templateMd5": "71b760ec732ec84400a7886e5682cf46"
+            },
+            {
+              "templateId": "adtk-feed-mixbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-feed-mixbar.120.js",
+              "templateVersion": "1.2.0",
+              "templateVersionCode": 120,
+              "templateMd5": "a2fe136807556b88d818d76ba02fd3ee"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": null,
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false,
+        "switchBit": 1
+      },
+      "displayTime": null,
+      "location": {},
+      "timestamp": 1651508612152,
+      "time": "2022-05-03 00:23:32",
+      "isShareCountExp": false,
+      "share_count": 51,
+      "forward_count": 0,
+      "unlike_count": 0,
+      "photo_id": 5208413040428833120,
+      "caption": "电影电视剧尽情看，想看什么搜一下，就在爱奇艺极速版！",
+      "view_count": 11254254,
+      "photo_status": 0,
+      "like_count": 0,
+      "type": 1,
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/smart_0c399de285ab4633939bcc3c44c3ce7d.kpg",
+      "main_mv_urls": [
+        {
+          "url": "https://alimov2.a.kwimgs.com/upic/2022/03/29/10/BMjAyMjAzMjkxMDMwMzNfMjU3MTE0MzA2Nl83MDcxNjcwNzc0Nl8wXzM\u003d_b_Bb1b490c3a3b33bdca5ac3d8811f00ec7.mp4?tag\u003d1-1651507517-unknown-0-mpezi6umln-bb517e1df5f0a017\u0026clientCacheKey\u003d3x78jpjzqmsecju_b.mp4\u0026tt\u003db\u0026di\u003dded9d627\u0026bp\u003d13291"
+        }
+      ],
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/smart_0c399de285ab4633939bcc3c44c3ce7d.kpg",
+      "main_mv_url": "https://alimov2.a.kwimgs.com/upic/2022/03/29/10/BMjAyMjAzMjkxMDMwMzNfMjU3MTE0MzA2Nl83MDcxNjcwNzc0Nl8wXzM\u003d_b_Bb1b490c3a3b33bdca5ac3d8811f00ec7.mp4?tag\u003d1-1651507517-unknown-0-mpezi6umln-bb517e1df5f0a017\u0026clientCacheKey\u003d3x78jpjzqmsecju_b.mp4\u0026tt\u003db\u0026di\u003dded9d627\u0026bp\u003d13291",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_0c399de285ab4633939bcc3c44c3ce7d.kpg"
+        }
+      ],
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_0c399de285ab4633939bcc3c44c3ce7d.kpg"
+        }
+      ],
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 25,
+        "video": 42240
+      },
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_0c399de285ab4633939bcc3c44c3ce7d.kpg"
+        }
+      ],
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "override_cover_size": {
+        "width": 360,
+        "height": 640
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "serverExpTag": "feed_photo|5208413040428833120|2571143066|1_u/2005069001696322753_hd0",
+      "exp_tag": "1_u/2005069001696322753_hd0",
+      "user_id": 2571143066,
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDUwNjkwMDE2OTYzMjI3NTN8cGhvdG86NTIwODQxMzA0MDQyODgzMzEyMHx7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
+},
+{
+  "llsid": 2001305319068056210,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 11101001,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [],
+          "adConversionInfo": {
+            "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/?callback\u003dKyCkWcFn3Fnkm892udDIUua2wQzOVia5_0u3_zOO7lPx0YctP-JZN1lZCdP8Ji_jKi7aGrZHyDYwDdJWVF9V1Un-tp-Aewa9eyTtGpoM01QHBcNcmQ0H8ANXO1kTbI-rV7EHKjBrevAJVWLN-T7S45wWqmO23dYWh9KlUaR0IhJrY2SqTJw_oa5yc3WV6rvl",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "http://down.zaoyx.com/sdkgame/appand_100/6835/app_100_1482643.apk",
+            "marketUrl": "",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 9160817730,
+            "accountId": 10588159,
+            "adSourceType": 1,
+            "adDescription": "早游戏手游平台，无限资源，无限元宝，超高爆率，送648！",
+            "adSourceDescription": "广告",
+            "adOperationType": 1,
+            "adShowDuration": 20,
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/a78d80962a524ac2a506eb96c9ef0ecd.jpg",
+            "appName": "早游戏.apk",
+            "appPackageName": "com.qijin189fl.huosuapp",
+            "appScore": 0,
+            "adActionDescription": "立即下载",
+            "adMarkContent": "广告",
+            "campaignId": 227092289,
+            "unitId": 562452946,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "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",
+            "campaignName": "提升应用安装_20211105_09:43",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "早游戏",
+            "enableCloseAd": true,
+            "adActionBarColor": "FE3666",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://txmov2.a.kwimgs.com/upic/2021/11/05/09/BMjAyMTExMDUwOTQ2MjRfMjQ1NjcxODQ2NV82MDI2NzA0NTk3Ml8wXzM\u003d_b_B213781156be864d05cd7fa64e835274f.mp4?tag\u003d1-1651508609-unknown-0-fmthfop0po-99fbe7d6dd35c666\u0026clientCacheKey\u003d3xxnt7ugybi3rmw_b.mp4\u0026tt\u003db\u0026di\u003ddf68d2a5\u0026bp\u003d13291",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/smart_922447d402e141a2ae0f1317feb6a511.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5213479582730908393,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2456718465,
+            "userName": "爱玩手游的小野",
+            "accountId": 10588159,
+            "userGender": "F",
+            "portraitUrl": "https://p1.a.yximgs.com/uhead/AB/2021/08/27/14/BMjAyMTA4MjcxNDAzMjRfMjQ1NjcxODQ2NV8zX2hkNTc5XzEzOA\u003d\u003d_s.jpg"
+          },
+          "liveStartTime": 0,
+          "reservationId": ""
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "streamManifest": {
+        "version": "1.0.0",
+        "businessType": 2,
+        "mediaType": 2,
+        "videoId": "0b74cafb2e3b5ca1",
+        "hideAuto": false,
+        "manualDefaultSelect": false,
+        "stereoType": 0,
+        "adaptationSet": [
+          {
+            "id": 1,
+            "duration": 19666,
+            "representation": [
+              {
+                "id": 1,
+                "url": "http://txcmmov.a.etoote.com/ksc1/7X308WbEYm1HOXyGJlObH29QScwLVTqCBHNTkVLWqgJDN7a7fV9vVLm0NjiPT4JJjY7KCKVy2mVw2a3IqssDFs5V2JP--yY-_iPYNJO2dW64LTH6BWlhE2xfvR7q_B46e0x-XylYlNkwoGB4c2fg7OeBiy_qOcX9ZYY2xBXa_FarxLG3EIHkvBRAT4q4R6W4.mp4?tag\u003d1-1651508609-unknown-0-mikgdzkgtj-399e8112d82e5a53\u0026clientCacheKey\u003d3xxnt7ugybi3rmw_swft.mp4\u0026di\u003ddf68d2a5\u0026bp\u003d10001\u0026tt\u003dswft\u0026ss\u003dvp",
+                "backupUrl": [
+                  "http://alicmmov.a.etoote.com/ksc1/7X308WbEYm1HOXyGJlObH29QScwLVTqCBHNTkVLWqgJDN7a7fV9vVLm0NjiPT4JJjY7KCKVy2mVw2a3IqssDFs5V2JP--yY-_iPYNJO2dW64LTH6BWlhE2xfvR7q_B46e0x-XylYlNkwoGB4c2fg7OeBiy_qOcX9ZYY2xBXa_FarxLG3EIHkvBRAT4q4R6W4.mp4?tag\u003d1-1651508609-unknown-1-suxax4k5cd-6e1d4563580e87aa\u0026clientCacheKey\u003d3xxnt7ugybi3rmw_swft.mp4\u0026di\u003ddf68d2a5\u0026bp\u003d10001\u0026tt\u003dswft\u0026ss\u003dvp"
+                ],
+                "maxBitrate": 2300,
+                "avgBitrate": 1226,
+                "width": 720,
+                "height": 1280,
+                "frameRate": 30.0,
+                "quality": 1.6,
+                "qualityType": "720p",
+                "qualityLabel": "高清",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "0b74cafb2e3b5ca1/swft",
+                "hdrType": 0,
+                "fileSize": 3015180,
+                "bitratePattern": [
+                  1205,
+                  296,
+                  2200,
+                  211,
+                  542
+                ]
+              }
+            ]
+          }
+        ],
+        "playInfo": {}
+      },
+      "comments": [],
+      "following": 0,
+      "verified": false,
+      "headurls": [
+        {
+          "cdn": "txcm.a.etoote.com",
+          "url": "http://txcm.a.etoote.com/uhead/AB/2021/08/27/14/BMjAyMTA4MjcxNDAzMjRfMjQ1NjcxODQ2NV8zX2hkNTc5XzEzOA\u003d\u003d_s.jpg",
+          "freeTrafficCdn": true
+        },
+        {
+          "cdn": "alicm.a.etoote.com",
+          "url": "http://alicm.a.etoote.com/uhead/AB/2021/08/27/14/BMjAyMTA4MjcxNDAzMjRfMjQ1NjcxODQ2NV8zX2hkNTc5XzEzOA\u003d\u003d_s.jpg",
+          "freeTrafficCdn": true
+        }
+      ],
+      "user_sex": "F",
+      "user_name": "爱玩手游的小野",
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "us_c": 0,
+      "comment_count": 0,
+      "slideCommentEntryDisabled": false,
+      "photoTextLocationInfo": {
+        "leftRatio": 0.0,
+        "topRatio": 0.0020833334,
+        "widthRatio": 1.0,
+        "heightRatio": 0.99791664
+      },
+      "displayTime": null,
+      "location": {},
+      "time": "2022-05-03 00:23:29",
+      "timestamp": 1651508609116,
+      "like_count": 0,
+      "forward_count": 0,
+      "share_count": 3,
+      "unlike_count": 0,
+      "view_count": 56497,
+      "photo_status": 0,
+      "caption": "早游戏手游平台，无限资源，无限元宝，超高爆率，送648！",
+      "photo_id": 5213479582730908393,
+      "isShareCountExp": false,
+      "ad": {
+        "creativeId": 9160817730,
+        "chargeInfo": "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",
+        "sourceType": 1,
+        "conversionType": 1,
+        "displayType": 2,
+        "title": "立即下载",
+        "url": "http://down.zaoyx.com/sdkgame/appand_100/6835/app_100_1482643.apk",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/smart_922447d402e141a2ae0f1317feb6a511.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/smart_922447d402e141a2ae0f1317feb6a511.kpg"
+            }
+          ],
+          "width": 360,
+          "height": 640
+        },
+        "packageName": "com.qijin189fl.huosuapp",
+        "appName": "早游戏.apk",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1.0,
+        "extData": "{\"templateInfos\":[\"8_1_103_0\",\"6_1_120_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "appIconUrl": "https://static.yximgs.com/udata/pkg/a78d80962a524ac2a506eb96c9ef0ecd.jpg",
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0.0,
+        "actionBarColor": "FE3666",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 3087894057,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 11101001,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "FE3666",
+            "actionBarLoadTime": 5000,
+            "actionBarStyle": 1,
+            "displayInfo": "立即下载",
+            "downloadedActionBarLoadTime": 3000,
+            "realShowDelayTime": 7000,
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "antiVendorVari": 0,
+          "apkMd5Info": {
+            "apkMd5s": [
+              "ebccb5442a1b370cc0afe14183b639d6",
+              "140b2770323d258c783f5dd14588fb26",
+              "a083ce889407137af25439b1088dfc3b",
+              "454bf1116acddddd23f9e554a8cf2fe8",
+              "5fd735af06577b8a67ecbe949aee23ee"
+            ],
+            "unexpectedMd5Strategy": 0
+          },
+          "captionAdvertisementInfo": {
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/a78d80962a524ac2a506eb96c9ef0ecd.jpg",
+            "productName": "早游戏"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "FE3666",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "displayInfo": "立即下载",
+            "templateId": "adtk-comment-actionbar"
+          },
+          "convertInfo": {
+            "convertId": 342024,
+            "convertType": 3
+          },
+          "coverStickerInfo": {
+            "bgUrl": "http://tx2.a.yximgs.com/udata/pkg/smart_922447d402e141a2ae0f1317feb6a511.kpg",
+            "coverSticker": {
+              "stickerLocation": 2,
+              "stickerStyle": 4
+            },
+            "stickerTitle": "首充送648"
+          },
+          "deepRewardedInfo": {
+            "deepRewardedType": "CONVERSION_TYPE"
+          },
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "h5ControlInfo": {
+            "hideH5ReportEntrance": true,
+            "isDownloadLandingPageMould": true
+          },
+          "h5Data": "{\"coverUrlFrontend\":\"http://static.yximgs.com/udata/pkg/smart_922447d402e141a2ae0f1317feb6a511.jpg\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":3,\"exposeTagInfoList\":[{\"text\":\"新游上线\",\"url\":\"\",\"canClick\":true},{\"text\":\"酣畅开玩\",\"url\":\"\",\"canClick\":true}]},\"privacyInfo\":{\"appInfo\":{\"appName\":\"早游戏\",\"appVersion\":\"1.87.4\",\"packageSize\":27001251,\"updateTime\":1632983349170,\"developer\":\"上海奇晋网络科技有限公司\",\"appDetailImg\":\"\"},\"appPermissions\":[{\"permissionName\":\"android.permission.READ_PHONE_STATE\",\"permissionDetail\":\"允许程序访问电话状态\"},{\"permissionName\":\"android.permission.CAMERA\",\"permissionDetail\":\"允许程序访问摄像头进行拍照\"},{\"permissionName\":\"android.permission.WRITE_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序写入外部存储，如SD卡上写文件\"},{\"permissionName\":\"android.permission.READ_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序可以读取设备外部存储空间\"},{\"permissionName\":\"android.permission.WRITE_CALENDAR\",\"permissionDetail\":\"允许程序写入日程，但不可读取\"},{\"permissionName\":\"android.permission.READ_CALENDAR\",\"permissionDetail\":\"允许程序读取用户的日程信息\"},{\"permissionName\":\"android.permission.WRITE_SETTINGS\",\"permissionDetail\":\"允许程序更改系统设置\"}],\"privacyPolicyUrl\":\"https://static-inc.zaoyx.com/public/privacy.html\"}}",
+          "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "rewardEndInfo": {
+              "actionTitle": "再看一个",
+              "enableShowAgainView": true,
+              "extParams": null,
+              "hightLightTitle": "500",
+              "iconUrl": "https://static.yximgs.com/udata/pkg/ad-res/ad_award_coin_dialog_bg.b44569c6.png",
+              "rewardValue": 500,
+              "subTitle": "继续观看视频最高得500金币",
+              "title": "恭喜你已获得奖励"
+            },
+            "supportLiveReservation": false
+          },
+          "inspirePersonalize": {
+            "awardPersonalized": true,
+            "awardValue": "75"
+          },
+          "iosAppId": "",
+          "iosPageId": "",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "mixBarInfo": {
+            "templateId": "adtk-feed-mixbar"
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 早游戏",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 综合游戏平台广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_dislike_v3.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_dislike_v4.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d60267045972",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_report_v3.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d60267045972",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_report_v4.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_reason_v2.png"
+              },
+              {
+                "id": 18,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_reason_v3.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 18
+              }
+            ],
+            "negativeStyle": 3
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "FE3666",
+            "actionBarDesc": "早游戏手游平台，无限资源，无限元宝，超高爆率，送648！",
+            "actionBarTagColor": "fd174e",
+            "actionBarText": "立即下载",
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/a78d80962a524ac2a506eb96c9ef0ecd.jpg",
+            "appName": "早游戏",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/a78d80962a524ac2a506eb96c9ef0ecd.jpg",
+            "productName": "早游戏",
+            "secondIndustryName": "综合游戏平台",
+            "showPlayEndInfo": true
+          },
+          "playEndInfo": {
+            "actionBarColor": "FE3666",
+            "playEndStyle": 1,
+            "showEndOption": false,
+            "tagColor": "fd033f"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "54",
+          "privacyOption": {
+            "showPhotoRiskTip": true,
+            "showH5RiskTip": true,
+            "displayPosition": 2,
+            "riskTipText": "您访问的网站由第三方提供",
+            "appInfo": {
+              "appName": "早游戏",
+              "appVersion": "1.87.4",
+              "packageSize": 27001251,
+              "updateTime": 1632983349170,
+              "developer": "上海奇晋网络科技有限公司",
+              "appDetailImg": ""
+            },
+            "style": 0,
+            "photoRiskTipUrl": "https://activity.e.kuaishou.com/privacyProtect/",
+            "appDisplayText": "应用名：早游戏；版本号：1.87.4；应用大小：25.0M；开发者：上海奇晋网络科技有限公司",
+            "links": [
+              {
+                "linkText": "应用权限",
+                "linkUrl": "https://activity.e.kuaishou.com/privacyProtect-v2/"
+              },
+              {
+                "linkText": "隐私政策",
+                "linkUrl": "https://static-inc.zaoyx.com/public/privacy.html"
+              }
+            ]
+          },
+          "templateDatas": [
+            {
+              "data": "{\"realShowDelayTime\":6000,\"subTitle\":\"早游戏手游平台，无限资源，无限元宝，超高爆率，送648！\",\"bannerTitle\":\"新游上线 酣畅开玩\",\"actionbarExpandTime\":9000,\"displayInfo\":{\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"FE3666\"},\"iconUrl\":\"https://static.yximgs.com/udata/pkg/a78d80962a524ac2a506eb96c9ef0ecd.jpg\",\"title\":\"早游戏\",\"cardStyle\":2,\"actionBarLoadTime\":4000,\"showWeakStyle\":true,\"weakStyleInfo\":{\"animationStyle\":2,\"weakStyleDelayTime\":0,\"title\":\"新游上线 酣畅开玩\"}}",
+              "displayLocation": 0,
+              "mixBarType": 1,
+              "resourceType": 1,
+              "styleType": 6,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-feed-mixbar",
+              "templateShowTime": 0
+            },
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"早游戏手游平台，无限资源，无限元宝，超高爆率，送648！\",\"iconUrl\":\"https://static.yximgs.com/udata/pkg/a78d80962a524ac2a506eb96c9ef0ecd.jpg\",\"title\":\"早游戏\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"FE3666\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-comment-actionbar",
+              "templateShowTime": 0
+            }
+          ],
+          "webviewType": 0
+        },
+        "adDescription": "早游戏手游平台，无限资源，无限元宝，超高爆率，送648！",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "adtk-feed-mixbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-feed-mixbar.120.js",
+              "templateVersion": "1.2.0",
+              "templateVersionCode": 120,
+              "templateMd5": "a2fe136807556b88d818d76ba02fd3ee"
+            },
+            {
+              "templateId": "adtk-comment-actionbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-comment-actionbar.103.js",
+              "templateVersion": "1.0.3",
+              "templateVersionCode": 103,
+              "templateMd5": "71b760ec732ec84400a7886e5682cf46"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": null,
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false,
+        "switchBit": 1
+      },
+      "shareGuide": {
+        "photoShareGuide": false,
+        "playTimes": 1,
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4
+      },
+      "us_d": 1,
+      "share_info": "userId\u003d3xjeaz3n7sjgn6u\u0026photoId\u003d3xxnt7ugybi3rmw",
+      "forward_stats_params": {
+        "fid": "2351836359",
+        "et": "1_u/2001305319068056210_hd0"
+      },
+      "expectFreeTraffic": true,
+      "liked": 0,
+      "hated": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "type": 1,
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_922447d402e141a2ae0f1317feb6a511.kpg"
+        }
+      ],
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/smart_922447d402e141a2ae0f1317feb6a511.kpg",
+      "main_mv_urls": [
+        {
+          "url": "https://txmov2.a.kwimgs.com/upic/2021/11/05/09/BMjAyMTExMDUwOTQ2MjRfMjQ1NjcxODQ2NV82MDI2NzA0NTk3Ml8wXzM\u003d_b_B213781156be864d05cd7fa64e835274f.mp4?tag\u003d1-1651508609-unknown-0-fmthfop0po-99fbe7d6dd35c666\u0026clientCacheKey\u003d3xxnt7ugybi3rmw_b.mp4\u0026tt\u003db\u0026di\u003ddf68d2a5\u0026bp\u003d13291"
+        }
+      ],
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/smart_922447d402e141a2ae0f1317feb6a511.kpg",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_922447d402e141a2ae0f1317feb6a511.kpg"
+        }
+      ],
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_922447d402e141a2ae0f1317feb6a511.kpg"
+        }
+      ],
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 30,
+        "video": 19666
+      },
+      "main_mv_url": "https://txmov2.a.kwimgs.com/upic/2021/11/05/09/BMjAyMTExMDUwOTQ2MjRfMjQ1NjcxODQ2NV82MDI2NzA0NTk3Ml8wXzM\u003d_b_B213781156be864d05cd7fa64e835274f.mp4?tag\u003d1-1651508609-unknown-0-fmthfop0po-99fbe7d6dd35c666\u0026clientCacheKey\u003d3xxnt7ugybi3rmw_b.mp4\u0026tt\u003db\u0026di\u003ddf68d2a5\u0026bp\u003d13291",
+      "override_cover_size": {
+        "width": 360,
+        "height": 640
+      },
+      "serverExpTag": "feed_photo|5213479582730908393|2456718465|1_u/2001305319068056210_hd0",
+      "exp_tag": "1_u/2001305319068056210_hd0",
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "user_id": 2456718465,
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDEzMDUzMTkwNjgwNTYyMTB8cGhvdG86NTIxMzQ3OTU4MjczMDkwODM5M3x7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
+}]
